@@ -1,34 +1,26 @@
 
-.. _h486b46417c1d3d2f5c67294434555b7f:
+.. _h2b541b85e445576481176631d655543:
 
-OpenCity
-########
+OpenCity: normative di riferimento
+**********************************
 
-.. _h441757d86c261a2d5d6ad426f4033:
-
-Normative di riferimento
-########################
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
+Permette alle \ |STYLE0|\  di presentarsi con un \ |STYLE1|\  per i siti web delle pubbliche amministrazioni (vedi la sezione “normative di riferimento”).
 
 .. _h454cd2549294d3696220441d77b2e:
 
 La piattaforma OpenCity
-***********************
+=======================
 
-La \ |STYLE0|\ , sviluppata da Opencontent e rilasciata interamente con licenza Open Source, è già utilizzata da oltre 250 enti locali e società pubbliche per gestire i canali digitali di un ente pubblico; si tratta di uno strumento molto flessibile, esito di un’intensa attività di co-progettazione con amministratori locali, funzionari e dirigenti del settore pubblico, che permette di ripensare la comunicazione multi-canale con il cittadino e le modalità di progettazione dei servizi in una chiave innovativa, partecipativa, trasparente e moderna.
+La \ |STYLE2|\ , sviluppata da Opencontent e rilasciata interamente con licenza Open Source, è già utilizzata da oltre 250 enti locali e società pubbliche per gestire i canali digitali di un ente pubblico; si tratta di uno strumento molto flessibile, esito di un’intensa attività di co-progettazione con amministratori locali, funzionari e dirigenti del settore pubblico, che permette di ripensare la comunicazione multi-canale con il cittadino e le modalità di progettazione dei servizi in una chiave innovativa, partecipativa, trasparente e moderna.
 
-OpenCity rientra negli esempi virtuosi di adozione delle nuove \ |STYLE1|\  pubblicate da AgID:
+OpenCity rientra negli esempi virtuosi di adozione delle nuove \ |STYLE3|\  pubblicate da AgID:
 
-        \ |STYLE2|\ 
+        \ |STYLE4|\ 
         \ |LINK1|\ 
 
 con particolare specializzazione sui siti web per i comuni:
 
-        \ |STYLE3|\ 
+        \ |STYLE5|\ 
 
         \ |LINK2|\ 
 
@@ -36,99 +28,99 @@ La piattaforma dispone di una serie di moduli indipendenti tra loro, ma interope
 
 OpenCity rispetta la normativa vigente in materia di accessibilità dei siti web, oltre che le buone pratiche inerenti alla ottimizzazione per i motori di ricerca (SEO). Dal punto di vista della presentazione dei contenuti, la scelta è quella di utilizzare un design responsivo (che si adatta alla dimensione dello strumento utilizzato per navigare il sito) caratterizzato da un approccio di tipo mobile-first, che pone, cioè,  il focus sui dispositivi mobili.
 
-Secondo le \ |STYLE4|\  ed il \ |STYLE5|\ , messi a punto dal Team per la Trasformazione Digitale, il sito web istituzionale dell’ente acquista una finalità completamente nuova, focalizzandosi sulla promozione dei servizi al cittadino e sull’erogazione dei servizi digitali. Il sito quindi si compone di due parti principali:
+Secondo le \ |STYLE6|\  ed il \ |STYLE7|\ , messi a punto dal Team per la Trasformazione Digitale, il sito web istituzionale dell’ente acquista una finalità completamente nuova, focalizzandosi sulla promozione dei servizi al cittadino e sull’erogazione dei servizi digitali. Il sito quindi si compone di due parti principali:
 
-* un’\ |STYLE6|\ , tra le altre informazioni spicca la sezione dedicata ai “servizi pubblici”; la struttura ad albero del sito è prestabilita, caratterizzata da tipologie di contenuto standard
+* un’\ |STYLE8|\ , tra le altre informazioni spicca la sezione dedicata ai “servizi pubblici”; la struttura ad albero del sito è prestabilita, caratterizzata da tipologie di contenuto standard
 
-* un’\ |STYLE7|\ , all’interno della quale il cittadino che si autentica con SPID può prendere visione dei messaggi a lui riservati, delle pratiche in corso con il relativo stato di avanzamento, dei documenti che la PA decide di porre alla sua attenzione; a partire da quest’area, il cittadino può avviare le proprie istanze.
+* un’\ |STYLE9|\ , all’interno della quale il cittadino che si autentica con SPID può prendere visione dei messaggi a lui riservati, delle pratiche in corso con il relativo stato di avanzamento, dei documenti che la PA decide di porre alla sua attenzione; a partire da quest’area, il cittadino può avviare le proprie istanze.
 
 \ |IMG1|\ 
 
-\ |STYLE8|\ 
+\ |STYLE10|\ 
 
 .. _h69e1d2c43573664c7a405e2e6a4123:
 
 Conformità alle Linee Guida AgID
-********************************
+================================
 
 OpenCity rispetta le seguenti linee guida definite da AgID (rese obbligatorie dall’art.71 del CAD):
-
-* \ |STYLE9|\ 
-
-* \ |STYLE10|\ 
 
 * \ |STYLE11|\ 
 
 * \ |STYLE12|\ 
 
-* \ |STYLE13|\  - che include gli standard dell'informazione: ontologie e vocabolari controllati)
+* \ |STYLE13|\ 
 
-* \ |STYLE14|\  (in corso)
+* \ |STYLE14|\ 
 
-OpenCity e tutti i suoi moduli sono stati progettati ed implementati in modo tale da garantire la massima sostenibilità nel tempo. Infatti, per continuare ad essere utilizzate nel lungo termine e contribuire concretamente alla progressiva digitalizzazione dell’ente, i singoli micro-servizi devono necessariamente consentire benefici evidenti anche agli operatori interni, in termini di \ |STYLE15|\  (ad esempio, eliminando completamente il trasferimento manuale di dati); disponendo di dati puntualmente aggiornati, i responsabili dell’ente sono nella condizione di supervisionare l’attività degli stessi operatori interni, monitorare i flussi e pianificare eventuali ottimizzazioni dei processi.
+* \ |STYLE15|\  - che include gli standard dell'informazione: ontologie e vocabolari controllati)
+
+* \ |STYLE16|\  (in corso)
+
+OpenCity e tutti i suoi moduli sono stati progettati ed implementati in modo tale da garantire la massima sostenibilità nel tempo. Infatti, per continuare ad essere utilizzate nel lungo termine e contribuire concretamente alla progressiva digitalizzazione dell’ente, i singoli micro-servizi devono necessariamente consentire benefici evidenti anche agli operatori interni, in termini di \ |STYLE17|\  (ad esempio, eliminando completamente il trasferimento manuale di dati); disponendo di dati puntualmente aggiornati, i responsabili dell’ente sono nella condizione di supervisionare l’attività degli stessi operatori interni, monitorare i flussi e pianificare eventuali ottimizzazioni dei processi.
 
 I micro-servizi sono stati pensati come strumenti che facilitano il rispetto del quadro normativo relativo alla transizione digitale, fornendo al tempo stesso a tutti gli stakeholder coinvolti delle esperienze tangibili e concrete di applicazione delle norme e delle linee guida nazionali definite da AgID, peraltro facilmente riproducibili in ambiti diversi (cultura, servizi sociali, sanità, turismo, ...).
 
 I singoli componenti tecnologici sono stati progettati secondo i principi definiti da:
 
-* le \ |STYLE16|\  della Pubblica Amministrazione:
+* le \ |STYLE18|\  della Pubblica Amministrazione:
 * \ |LINK3|\  inclusi i KIT di Designers Italia, ovvero l’insieme di risorse per progettare, realizzare e migliorare i servizi digitali della PA
 
-* Le nuove \ |STYLE17|\  per le pubbliche amministrazioni:
+* Le nuove \ |STYLE19|\  per le pubbliche amministrazioni:
 * \ |LINK4|\ 
 
-* Le \ |STYLE18|\ :
+* Le \ |STYLE20|\ :
 * \ |LINK5|\  che hanno caratterizzato lo sviluppo di un layer API oggi disponibili per tutte le applicazioni rilasciate; si veda ad esempio:
 * \ |LINK6|\  tale componente può essere abilitata sia in lettura che in scrittura da back-office per qualsiasi tipologia di informazione, rendendo estremamente flessibile l’integrazione con software di terze parti, salvaguardando di conseguenza gli investimenti pregressi, valorizzando i fornitori già presenti (purché disponibili ad integrarsi)
 
-* le indicazioni per l’adozione del \ |STYLE19|\ , utilizzando le metodologie contenute nel Cloud Enablement Kit elaborato dal Team Digitale:
+* le indicazioni per l’adozione del \ |STYLE21|\ , utilizzando le metodologie contenute nel Cloud Enablement Kit elaborato dal Team Digitale:
 * \ |LINK7|\  tale percorso ha favorito il processo di qualificazione dei principali strumenti implementati, che oggi possono essere forniti in modalità SaaS ed erogabili sul Cloud della PA:
 * \ |LINK8|\  come previsto dai criteri stabiliti da AgID:
-* \ |LINK9|\  \ |STYLE20|\ .
+* \ |LINK9|\  \ |STYLE22|\ .
 
-* le \ |STYLE21|\  (Open Data): \ |LINK10|\  che consentono l’alimentazione automatica dei portali regionali dedicati ai dati aperti, con dataset di elevata qualità generati automaticamente dai portali web degli enti locali; gli stessi dati sono disponibili via REST API.
+* le \ |STYLE23|\  (Open Data): \ |LINK10|\  che consentono l’alimentazione automatica dei portali regionali dedicati ai dati aperti, con dataset di elevata qualità generati automaticamente dai portali web degli enti locali; gli stessi dati sono disponibili via REST API.
 
 Le azioni e le indicazioni contenute nel Piano Triennale per l’Informatica della PA e le varie Linee guida sopra citate non vengono intese solo come un mero adempimento normativo, ma come un insieme di indicazioni ragionevoli che favoriscono l’allineamento dei sistemi informativi della PA alle metodologie di progettazione, sviluppo ed utilizzo delle tecnologie digitali già largamente utilizzate in ambito ICT a livello internazionale, anche in ambito privato.
 
 .. _h414d426f287354713d3c5c16327b:
 
 Conformità al Piano Triennale per l’Informatica della PA
-********************************************************
+========================================================
 
 In pratica, realizzare e gestire un sito web istituzionale come quello sopra descritto consente di maturare un’esperienza concreta rispetto a molti dei punti che caratterizzano il Piano Triennale.
 
-#. \ |STYLE22|\ 
+#. \ |STYLE24|\ 
 #. I portali istituzionali, intesi come l’insieme di area pubblica ed area personale del cittadino, rappresentano uno strumento di abilitazione dei principi generali definiti dalla strategia nazionale, per le seguenti ragioni:
 
-    #. ogni volta che viene censito un servizio nella fase di mappatura, si valuta se è possibile realizzarlo in digitale (come servizio on line), cogliendo l’occasione per rivedere le abitudini consolidate per abbreviare l’iter procedurale che deve essere seguito dai cittadini (\ |STYLE23|\ )
+    #. ogni volta che viene censito un servizio nella fase di mappatura, si valuta se è possibile realizzarlo in digitale (come servizio on line), cogliendo l’occasione per rivedere le abitudini consolidate per abbreviare l’iter procedurale che deve essere seguito dai cittadini (\ |STYLE25|\ )
 
-    #. per i servizi che vengono via via digitalizzati, vengono identificate le fonti primarie dell’informazione ed i registri di base che intervengono nello specifico iter on-line; tali fonti verranno progressivamente rese disponibili anche via API per evitare di chiedere più volte all’utente gli stessi dati (\ |STYLE24|\ )
+    #. per i servizi che vengono via via digitalizzati, vengono identificate le fonti primarie dell’informazione ed i registri di base che intervengono nello specifico iter on-line; tali fonti verranno progressivamente rese disponibili anche via API per evitare di chiedere più volte all’utente gli stessi dati (\ |STYLE26|\ )
 
-    #. l’accesso ai servizi on-line (qualificazione dell’utente) avviene sempre attraverso SPID o sistemi analoghi (\ |STYLE25|\ )
+    #. l’accesso ai servizi on-line (qualificazione dell’utente) avviene sempre attraverso SPID o sistemi analoghi (\ |STYLE27|\ )
 
-    #. la piattaforma viene ospitata in cloud e predisposta per sfruttarne i benefici (scalabilità, continuità di servizio, sicurezza, ….), utilizzando esclusivamente soluzioni qualificate e presenti nel marketplace AgID; tutte le successive evoluzioni della stessa vengono progettate con le medesime caratteristiche e requisiti (\ |STYLE26|\ )
+    #. la piattaforma viene ospitata in cloud e predisposta per sfruttarne i benefici (scalabilità, continuità di servizio, sicurezza, ….), utilizzando esclusivamente soluzioni qualificate e presenti nel marketplace AgID; tutte le successive evoluzioni della stessa vengono progettate con le medesime caratteristiche e requisiti (\ |STYLE28|\ )
 
-    #. la piattaforma è conforme ai requisiti di accessibilità previsti dalla normativa vigente e progressivamente allineata alle nuove linee guida per l’accessibilità, pubblicate a gennaio 2020 (\ |STYLE27|\ )
+    #. la piattaforma è conforme ai requisiti di accessibilità previsti dalla normativa vigente e progressivamente allineata alle nuove linee guida per l’accessibilità, pubblicate a gennaio 2020 (\ |STYLE29|\ )
 
-    #. la piattaforma è predisposta per il multilinguismo (\ |STYLE28|\ )
+    #. la piattaforma è predisposta per il multilinguismo (\ |STYLE30|\ )
 
-    #. vengono supportati diverse modalità per valorizzare i dati aperti, attraverso la rappresentazione e l’esportazione massiva dei dati in formato tabellare da parte dei cittadini (\ |STYLE29|\ )
+    #. vengono supportati diverse modalità per valorizzare i dati aperti, attraverso la rappresentazione e l’esportazione massiva dei dati in formato tabellare da parte dei cittadini (\ |STYLE31|\ )
 
-    #. i dati personali vengono gestiti con politiche trasparenti all’utente e conformi a quanto previsto dalle direttive europee in termini di privacy e sicurezza (\ |STYLE30|\ )
+    #. i dati personali vengono gestiti con politiche trasparenti all’utente e conformi a quanto previsto dalle direttive europee in termini di privacy e sicurezza (\ |STYLE32|\ )
 
-    #. la piattaforma mette a disposizione un layer di API che consente di interfacciarsi facilmente con applicazioni di back-office (\ |STYLE31|\ )
+    #. la piattaforma mette a disposizione un layer di API che consente di interfacciarsi facilmente con applicazioni di back-office (\ |STYLE33|\ )
 
-    #. tutti i componenti sono rilasciati in open source e pubblicati sul portale nazionale del riuso (Developers Italia); risultano inoltre interoperabili a vari livelli. Queste due caratteristiche consentono a soggetti terzi di interagire con la piattaforma e di sviluppare il proprio modello di business: consulenza sulle medesime soluzioni tecnologiche in altre aree geografiche del paese, integrare soluzioni anche proprietarie via API, ecc. (\ |STYLE32|\ )
+    #. tutti i componenti sono rilasciati in open source e pubblicati sul portale nazionale del riuso (Developers Italia); risultano inoltre interoperabili a vari livelli. Queste due caratteristiche consentono a soggetti terzi di interagire con la piattaforma e di sviluppare il proprio modello di business: consulenza sulle medesime soluzioni tecnologiche in altre aree geografiche del paese, integrare soluzioni anche proprietarie via API, ecc. (\ |STYLE34|\ )
 
-    #. la piattaforma ed i suoi moduli sono predisposti per l’interoperabilità, mettendo a disposizione un layer di API per dialogare con soluzioni esterne (\ |STYLE33|\ )
+    #. la piattaforma ed i suoi moduli sono predisposti per l’interoperabilità, mettendo a disposizione un layer di API per dialogare con soluzioni esterne (\ |STYLE35|\ )
 
-    #. una delle principali ragioni per cui è stata progettata la Stanza del Cittadino è quella di fornire servizi digitali moderni ed innovativi a cittadini ed imprese (\ |STYLE34|\ )
+    #. una delle principali ragioni per cui è stata progettata la Stanza del Cittadino è quella di fornire servizi digitali moderni ed innovativi a cittadini ed imprese (\ |STYLE36|\ )
 
-    #. la piattaforma e tutti i suoi moduli sono progettati per erogare servizi attraverso smartphone e tablet (\ |STYLE35|\ )
+    #. la piattaforma e tutti i suoi moduli sono progettati per erogare servizi attraverso smartphone e tablet (\ |STYLE37|\ )
 
-    #. tutte le informazioni gestite dalla piattaforma vengono strutturate e definite attraverso un modello semantico standard (\ |STYLE36|\ )
+    #. tutte le informazioni gestite dalla piattaforma vengono strutturate e definite attraverso un modello semantico standard (\ |STYLE38|\ )
 
-#. \ |STYLE37|\ 
+#. \ |STYLE39|\ 
 #. La piattaforma risulta conforme ai seguenti riferimenti normativi:
 
     #. Nazionali:
@@ -153,10 +145,10 @@ In pratica, realizzare e gestire un sito web istituzionale come quello sopra des
 
         #. Direttiva EU 2016/2102 relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici
 
-#. \ |STYLE38|\ 
+#. \ |STYLE40|\ 
 #. La piattaforma potrà essere ospitata nel Cloud, secondo la formula del Software as a Service (SaaS). Il Cloud computing è un modello flessibile ed economico per la fornitura di servizi ICT che consente un accesso più agevole a risorse configurabili e condivise, grazie a tecnologie basate su internet. Per il raggiungimento di tali obiettivi, AgID ha previsto una specifica procedura di qualificazione di soluzioni di “Software as a Service” (SaaS) nell’ambito della strategia di evoluzione del modello Cloud della PA ripreso dal Piano Triennale. Il modello SaaS rappresenta un modello di distribuzione in cui il software viene gestito in modo centralizzato e reso disponibile agli Enti sulla base di una sottoscrizione (che si traduce in un canone annuale).
 
-#. \ |STYLE39|\ 
+#. \ |STYLE41|\ 
 #. Il rispetto degli standard definiti a livello nazionale (AgID/OntoPiA) ed europeo (Core Vocabularies) consente ai fornitori di software terze parti di abbattere i costi delle integrazioni e favorisce la nascita di nuove applicazioni a valore aggiunto basate sul riuso dei dati aperti. Tutti i siti e le applicazioni web sviluppate dispongono di una console, utilizzabile da qualsiasi sviluppatore, che consente di interrogare il database alimentato dal CMS Headless.
 #. La strutturazione delle informazioni segue i nuovi standard nazionali definiti da AgID e dall’iniziativa ISA² (Interoperability solutions for public administrations, businesses and citizens) della Commissione Europea; su questo:
 
@@ -166,10 +158,10 @@ In pratica, realizzare e gestire un sito web istituzionale come quello sopra des
     #. \ |LINK11|\  e nel rapporto "APIs for CPSV-AP based Catalogue of Services":
     #. \ |LINK12|\ 
 
-#. \ |STYLE40|\ 
+#. \ |STYLE42|\ 
 #. L’attenzione all’architettura delle informazioni gestite dalla più recente versione di OpenCity consente di:
 
-    #. generare un archivio di informazioni costantemente aggiornate, codificate in formato \ |STYLE41|\ , che possono essere riusate per alimentare le varie sezioni del sito web e che costituiscono la fonte primaria della comunicazione multicanale dell’ente; questo aspetto garantisce un notevole risparmio di tempo per il personale interno ed aumenta esponenzialmente la qualità dei dati gestiti
+    #. generare un archivio di informazioni costantemente aggiornate, codificate in formato \ |STYLE43|\ , che possono essere riusate per alimentare le varie sezioni del sito web e che costituiscono la fonte primaria della comunicazione multicanale dell’ente; questo aspetto garantisce un notevole risparmio di tempo per il personale interno ed aumenta esponenzialmente la qualità dei dati gestiti
 
     #. rendere ogni sezione del sito interoperabile via API per qualsiasi tipologia di contenuto (personale, luoghi, atti, servizi, eventi, ...); dal punto di vista architetturale, questa componente consente un effettivo disaccoppiamento dei sistemi applicativi adottati dall’ente locale (netta separazione tra gli ambienti di back-end e di front-end), nonché di adottare un unico ambiente sicuro per la gestione delle informazioni pubbliche (CMS Headless), caratterizzato da policy predefinite, e di visualizzare informazioni perfettamente coerenti tra loro su più canali digitali (sito web, APP, totem, ecc...)
 
@@ -179,24 +171,24 @@ In pratica, realizzare e gestire un sito web istituzionale come quello sopra des
 
     #. alimentare automaticamente ed in tempo reale una piattaforma centrale che raccoglie dati; tale funzione consente agli utenti finali (anche cittadini) di configurare dei widget che espongono i dati generati a livello locale attraverso mappe geografiche, grafici interattivi ed altre rappresentazioni che agevolano la lettura dei dati; tale abilitazione consente di arricchire le pagine dei siti web o di generare delle dashboard per i decision maker degli enti locali (che possono così prendere decisioni supportate dai dati), abbattendo i costi di sviluppo di ulteriori tool personalizzati per ogni ente
 
-#. \ |STYLE42|\ 
+#. \ |STYLE44|\ 
 #. La piattaforma si integra già con SPID e PagoPA.
 
-#. \ |STYLE43|\ 
+#. \ |STYLE45|\ 
 #. La piattaforma, una volta resa disponibile anche alle strutture provinciali, può contribuire allo sviluppo degli ecosistemi definiti a livello nazionale per lo meno quello della cultura e quello della famiglia, rendendo disponibile la stessa tecnologia a tutti gli stakeholder locali coinvolti.
 
-#. \ |STYLE44|\ 
+#. \ |STYLE46|\ 
 #. La piattaforma è progettata secondo gli standard di sicurezza previsti dalla normativa vigente e viene costantemente aggiornata per mantenerne la conformità.
 
-#. \ |STYLE45|\ 
+#. \ |STYLE47|\ 
 #. La piattaforma adotta i KIT definiti da Designers Italia ed implementa Bootstrap Italia in tutte le sue parti, un'interfaccia web responsive, usabile, accessibile, conforme alle linee guida di design dei servizi per la PA.
 
 .. _h675e4b522c7a97d13a24b62124f42:
 
 Conformità al GDPR (Regolamento UE 2016/679)
-********************************************
+============================================
 
-\ |STYLE46|\ 
+\ |STYLE48|\ 
 
 La piattaforma OpenCity è stata sviluppata nel rispetto dei principi di protezione dei dati personali, conformemente a quanto previsto dal Regolamento UE 2016/679 - Regolamento generale per la protezione dei dati personali (GDPR) (di seguito “Regolamento”) e dalla normativa nazionale di riferimento (D.Lgs. 196/2003 così come riformato dal D.Lgs. 101/2018), integrando le funzionalità e gli accorgimenti di seguito descritti.
 
@@ -239,99 +231,103 @@ Alla disattivazione del sistema, i dati personali vengono esportati e consegnati
 .. bottom of content
 
 
-.. |STYLE0| replace:: **piattaforma OpenCity**
+.. |STYLE0| replace:: **amministrazioni pubbliche**
 
-.. |STYLE1| replace:: **Linee Guida di design per i servizi web della PA (versione 2019.2)**
+.. |STYLE1| replace:: **sito web conforme alle normative vigenti, accessibile e aderente alle linee guida del Team Digitale**
 
-.. |STYLE2| replace:: *Esempi di Pubbliche Amministrazioni virtuose, che hanno scelto di adottare le linee guida e di condividere il codice sorgente utilizzato per la realizzazione dei propri siti così come previsto dall’art. 69 del Codice dell’Amministrazione Digitale:*
+.. |STYLE2| replace:: **piattaforma OpenCity**
 
-.. |STYLE3| replace:: *Design dei siti web dei Comuni italiani*
+.. |STYLE3| replace:: **Linee Guida di design per i servizi web della PA (versione 2019.2)**
 
-.. |STYLE4| replace:: **nuove Linee Guida di design per i servizi web della PA (versione 2019.2)**
+.. |STYLE4| replace:: *Esempi di Pubbliche Amministrazioni virtuose, che hanno scelto di adottare le linee guida e di condividere il codice sorgente utilizzato per la realizzazione dei propri siti così come previsto dall’art. 69 del Codice dell’Amministrazione Digitale:*
 
-.. |STYLE5| replace:: **KIT per i comuni**
+.. |STYLE5| replace:: *Design dei siti web dei Comuni italiani*
 
-.. |STYLE6| replace:: **area pubblica**
+.. |STYLE6| replace:: **nuove Linee Guida di design per i servizi web della PA (versione 2019.2)**
 
-.. |STYLE7| replace:: **area personale**
+.. |STYLE7| replace:: **KIT per i comuni**
 
-.. |STYLE8| replace:: *Il percorso del cittadino, secondo il design pattern definito dal Team Digitale*
+.. |STYLE8| replace:: **area pubblica**
 
-.. |STYLE9| replace:: **Riuso e open source**
+.. |STYLE9| replace:: **area personale**
 
-.. |STYLE10| replace:: **Cloud della PA**
+.. |STYLE10| replace:: *Il percorso del cittadino, secondo il design pattern definito dal Team Digitale*
 
-.. |STYLE11| replace:: **Modello di interoperabilità**
+.. |STYLE11| replace:: **Riuso e open source**
 
-.. |STYLE12| replace:: **Open Data e PSI**
+.. |STYLE12| replace:: **Cloud della PA**
 
-.. |STYLE13| replace:: **Designers Italia**
+.. |STYLE13| replace:: **Modello di interoperabilità**
 
-.. |STYLE14| replace:: **Accessibilità**
+.. |STYLE14| replace:: **Open Data e PSI**
 
-.. |STYLE15| replace:: **risparmio di tempo, automazione dei processi, contenimento della spesa, integrità dei dati gestiti**
+.. |STYLE15| replace:: **Designers Italia**
 
-.. |STYLE16| replace:: **Linee Guida di design per i servizi web**
+.. |STYLE16| replace:: **Accessibilità**
 
-.. |STYLE17| replace:: **Linee guida su acquisizione e riuso di software**
+.. |STYLE17| replace:: **risparmio di tempo, automazione dei processi, contenimento della spesa, integrità dei dati gestiti**
 
-.. |STYLE18| replace:: **Linee Guida relative al modello di interoperabilità**
+.. |STYLE18| replace:: **Linee Guida di design per i servizi web**
 
-.. |STYLE19| replace:: **modello cloud computing nella PA**
+.. |STYLE19| replace:: **Linee guida su acquisizione e riuso di software**
 
-.. |STYLE20| replace:: **dal 1 aprile 2019 le PA non possono acquistare servizi in cloud non presenti nel marketplace**
+.. |STYLE20| replace:: **Linee Guida relative al modello di interoperabilità**
 
-.. |STYLE21| replace:: **Linee Guida per la valorizzazione del patrimonio informativo pubblico**
+.. |STYLE21| replace:: **modello cloud computing nella PA**
 
-.. |STYLE22| replace:: **Strategia per la trasformazione digitale**
+.. |STYLE22| replace:: **dal 1 aprile 2019 le PA non possono acquistare servizi in cloud non presenti nel marketplace**
 
-.. |STYLE23| replace:: *digital by default*
+.. |STYLE23| replace:: **Linee Guida per la valorizzazione del patrimonio informativo pubblico**
 
-.. |STYLE24| replace:: *once only*
+.. |STYLE24| replace:: **Strategia per la trasformazione digitale**
 
-.. |STYLE25| replace:: *digital identity only*
+.. |STYLE25| replace:: *digital by default*
 
-.. |STYLE26| replace:: *cloud first*
+.. |STYLE26| replace:: *once only*
 
-.. |STYLE27| replace:: *inclusività e accessibilità dei servizi*
+.. |STYLE27| replace:: *digital identity only*
 
-.. |STYLE28| replace:: *inclusività territoriale*
+.. |STYLE28| replace:: *cloud first*
 
-.. |STYLE29| replace:: *apertura e trasparenza dei dati*
+.. |STYLE29| replace:: *inclusività e accessibilità dei servizi*
 
-.. |STYLE30| replace:: *fiducia e sicurezza*
+.. |STYLE30| replace:: *inclusività territoriale*
 
-.. |STYLE31| replace:: *multi-layer architecture*
+.. |STYLE31| replace:: *apertura e trasparenza dei dati*
 
-.. |STYLE32| replace:: *ridurre i costi e migliorare la qualità dei servizi*
+.. |STYLE32| replace:: *fiducia e sicurezza*
 
-.. |STYLE33| replace:: *API economy*
+.. |STYLE33| replace:: *multi-layer architecture*
 
-.. |STYLE34| replace:: *priorità ai servizi di front end*
+.. |STYLE34| replace:: *ridurre i costi e migliorare la qualità dei servizi*
 
-.. |STYLE35| replace:: *mobile first*
+.. |STYLE35| replace:: *API economy*
 
-.. |STYLE36| replace:: *abilitare politiche data-driven*
+.. |STYLE36| replace:: *priorità ai servizi di front end*
 
-.. |STYLE37| replace:: **Contesto normativo digitale nazionale ed europeo**
+.. |STYLE37| replace:: *mobile first*
 
-.. |STYLE38| replace:: **Infrastrutture (Cloud della PA)**
+.. |STYLE38| replace:: *abilitare politiche data-driven*
 
-.. |STYLE39| replace:: **Modello di interoperabilità (standard nazionali ed europei)**
+.. |STYLE39| replace:: **Contesto normativo digitale nazionale ed europeo**
 
-.. |STYLE40| replace:: **Dati della PA**
+.. |STYLE40| replace:: **Infrastrutture (Cloud della PA)**
 
-.. |STYLE41| replace:: *machine-readable*
+.. |STYLE41| replace:: **Modello di interoperabilità (standard nazionali ed europei)**
 
-.. |STYLE42| replace:: **Piattaforme abilitanti**
+.. |STYLE42| replace:: **Dati della PA**
 
-.. |STYLE43| replace:: **Ecosistemi**
+.. |STYLE43| replace:: *machine-readable*
 
-.. |STYLE44| replace:: **Sicurezza informatica**
+.. |STYLE44| replace:: **Piattaforme abilitanti**
 
-.. |STYLE45| replace:: **Strumenti per la gestione e la diffusione dei servizi digitali**
+.. |STYLE45| replace:: **Ecosistemi**
 
-.. |STYLE46| replace:: *(N.B.: questa dichiarazione è stata inviata ad AgID per la qualificazione al marketplace dei servizi SaaS)*
+.. |STYLE46| replace:: **Sicurezza informatica**
+
+.. |STYLE47| replace:: **Strumenti per la gestione e la diffusione dei servizi digitali**
+
+.. |STYLE48| replace:: *(N.B.: questa dichiarazione è stata inviata ad AgID per la qualificazione al marketplace dei servizi SaaS)*
 
 
 .. |LINK1| raw:: html
