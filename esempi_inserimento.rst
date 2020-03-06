@@ -335,6 +335,64 @@ Quando l’ente eroga un servizio, trova nella controparte (i cittadini) una ple
 
 \ |IMG31|\ 
 
+.. _h1973e457e7f246a3157735f634e623e:
+
+Punti di contatto (obbligatorio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Un contatto (email, telefono) presso cui è possibile ricevere informazioni sul servizio. All’interno del sito dell’ente dovrebbero essere già censiti i punti di contatto dei vari uffici: nella maggior parte dei casi, quindi, qui si selezionerà uno dei punti esistenti. Il sistema consente di inserire anche eventuali nuovi punti di contatto.
+
+\ |IMG32|\ 
+
+.. _h630136ec101ac61e73783c353561:
+
+Regolamenti, linee guida, normative
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Un servizio potrebbe avere dei regolamenti, linee guida, normative di riferimento. Se questi sono censiti come Documenti (nella sezione “Documenti e dati”) è possibile collegarli a questo attributo, allo scopo di fornire all’utente l’informazione il più completa possibile.
+
+\ |IMG33|\ 
+
+.. _h3a6b42565a7c7e395ea1632168c1f:
+
+Link a siti esterni
+~~~~~~~~~~~~~~~~~~~
+
+Inserire eventuali siti esterni che forniscono informazioni sul servizio. 
+
+\ |IMG34|\ 
+
+Per inserire un nuovo link, fare click su “aggiungi righe”. Il sistema apre l’interfaccia di inserimento di una nuova riga nella tabella dei link, e chiede di specificare il \ |STYLE15|\  e il \ |STYLE16|\ .
+
+\ |IMG35|\ 
+
+.. _h1b7c7646346d3c781c4d3561707e6420:
+
+Box d’aiuto
+~~~~~~~~~~~
+
+Se l’utente ha difficoltà, chi può contattare? Tipicamente si dovrebbe inserire il punto di contatto “URP”, ma questo dipende da come è organizzato l’ente.
+
+\ |IMG36|\ 
+
+.. _h2a715033443622437114c56316e35:
+
+Area - Ufficio (obbligatorio)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Selezionare qual è l’ufficio responsabile dell’erogazione del servizio. Il sistema consente di specificare anche l’area, anche se non è obbligatorio.
+
+\ |IMG37|\ 
+
+.. _h7c1b16520d354a6610b796e706e6c:
+
+Procedure collegate all’esito
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fornire qui eventuali informazioni collegate all’esito della procedura: dove va ritirato l’esito? Si tratta di informazioni piuttosto specifiche, e valide solo per determinati servizi.
+
+\ |IMG38|\ 
+
 .. bottom of content
 
 
@@ -367,6 +425,10 @@ Quando l’ente eroga un servizio, trova nella controparte (i cittadini) una ple
 .. |STYLE13| replace:: **Servizi Richiesti**
 
 .. |STYLE14| replace:: *Visualizzazione dei servizi richiesti, con le tempistiche specificate*
+
+.. |STYLE15| replace:: **nome**
+
+.. |STYLE16| replace:: **link**
 
 
 .. |LINK1| raw:: html
@@ -496,4 +558,32 @@ Quando l’ente eroga un servizio, trova nella controparte (i cittadini) una ple
 
 .. |IMG31| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_31.png
    :height: 161 px
+   :width: 624 px
+
+.. |IMG32| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_32.png
+   :height: 70 px
+   :width: 624 px
+
+.. |IMG33| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_33.png
+   :height: 69 px
+   :width: 624 px
+
+.. |IMG34| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_34.png
+   :height: 57 px
+   :width: 624 px
+
+.. |IMG35| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_35.png
+   :height: 145 px
+   :width: 624 px
+
+.. |IMG36| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_36.png
+   :height: 64 px
+   :width: 624 px
+
+.. |IMG37| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_37.png
+   :height: 128 px
+   :width: 624 px
+
+.. |IMG38| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_38.png
+   :height: 232 px
    :width: 624 px
