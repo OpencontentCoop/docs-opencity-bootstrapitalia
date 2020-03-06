@@ -436,154 +436,154 @@ Fornire qui eventuali informazioni collegate all’esito della procedura: dove v
     <a href="http://qualitapa.gov.it/sitoarcheologico/relazioni-con-i-cittadini/open-government/comunicazione-istituzionale-on-line/i-livelli-di-interazione-dei-servizi-on-line/index.html" target="_blank">una descrizione dei livelli di interattività</a>
 
 
-.. |IMG1| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_1.png
+.. |IMG1| image:: static/2_-_Esempio_di_inserimento_contenuti_1.png
    :height: 58 px
    :width: 289 px
 
-.. |IMG2| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_2.png
+.. |IMG2| image:: static/2_-_Esempio_di_inserimento_contenuti_2.png
    :height: 336 px
    :width: 624 px
 
-.. |IMG3| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_3.png
+.. |IMG3| image:: static/2_-_Esempio_di_inserimento_contenuti_3.png
    :height: 76 px
    :width: 541 px
 
-.. |IMG4| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_4.png
+.. |IMG4| image:: static/2_-_Esempio_di_inserimento_contenuti_4.png
    :height: 165 px
    :width: 618 px
 
-.. |IMG5| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_5.png
+.. |IMG5| image:: static/2_-_Esempio_di_inserimento_contenuti_5.png
    :height: 170 px
    :width: 624 px
 
-.. |IMG6| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_6.png
+.. |IMG6| image:: static/2_-_Esempio_di_inserimento_contenuti_6.png
    :height: 165 px
    :width: 624 px
 
-.. |IMG7| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_7.png
+.. |IMG7| image:: static/2_-_Esempio_di_inserimento_contenuti_7.png
    :height: 234 px
    :width: 624 px
 
-.. |IMG8| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_8.png
+.. |IMG8| image:: static/2_-_Esempio_di_inserimento_contenuti_8.png
    :height: 164 px
    :width: 608 px
 
-.. |IMG9| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_9.png
+.. |IMG9| image:: static/2_-_Esempio_di_inserimento_contenuti_9.png
    :height: 197 px
    :width: 624 px
 
-.. |IMG10| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_10.png
+.. |IMG10| image:: static/2_-_Esempio_di_inserimento_contenuti_10.png
    :height: 126 px
    :width: 624 px
 
-.. |IMG11| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_11.png
+.. |IMG11| image:: static/2_-_Esempio_di_inserimento_contenuti_11.png
    :height: 132 px
    :width: 624 px
 
-.. |IMG12| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_12.png
+.. |IMG12| image:: static/2_-_Esempio_di_inserimento_contenuti_12.png
    :height: 170 px
    :width: 624 px
 
-.. |IMG13| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_13.png
+.. |IMG13| image:: static/2_-_Esempio_di_inserimento_contenuti_13.png
    :height: 146 px
    :width: 624 px
 
-.. |IMG14| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_14.png
+.. |IMG14| image:: static/2_-_Esempio_di_inserimento_contenuti_14.png
    :height: 80 px
    :width: 624 px
 
-.. |IMG15| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_15.png
+.. |IMG15| image:: static/2_-_Esempio_di_inserimento_contenuti_15.png
    :height: 381 px
    :width: 624 px
 
-.. |IMG16| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_16.png
+.. |IMG16| image:: static/2_-_Esempio_di_inserimento_contenuti_16.png
    :height: 189 px
    :width: 624 px
 
-.. |IMG17| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_17.png
+.. |IMG17| image:: static/2_-_Esempio_di_inserimento_contenuti_17.png
    :height: 69 px
    :width: 624 px
 
-.. |IMG18| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_18.png
+.. |IMG18| image:: static/2_-_Esempio_di_inserimento_contenuti_18.png
    :height: 170 px
    :width: 624 px
 
-.. |IMG19| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_19.png
+.. |IMG19| image:: static/2_-_Esempio_di_inserimento_contenuti_19.png
    :height: 166 px
    :width: 624 px
 
-.. |IMG20| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_20.png
+.. |IMG20| image:: static/2_-_Esempio_di_inserimento_contenuti_20.png
    :height: 97 px
    :width: 624 px
 
-.. |IMG21| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_21.png
+.. |IMG21| image:: static/2_-_Esempio_di_inserimento_contenuti_21.png
    :height: 54 px
    :width: 624 px
 
-.. |IMG22| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_22.png
+.. |IMG22| image:: static/2_-_Esempio_di_inserimento_contenuti_22.png
    :height: 293 px
    :width: 624 px
 
-.. |IMG23| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_23.png
+.. |IMG23| image:: static/2_-_Esempio_di_inserimento_contenuti_23.png
    :height: 172 px
    :width: 624 px
 
-.. |IMG24| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_24.png
+.. |IMG24| image:: static/2_-_Esempio_di_inserimento_contenuti_24.png
    :height: 82 px
    :width: 624 px
 
-.. |IMG25| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_25.png
+.. |IMG25| image:: static/2_-_Esempio_di_inserimento_contenuti_25.png
    :height: 78 px
    :width: 624 px
 
-.. |IMG26| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_26.png
+.. |IMG26| image:: static/2_-_Esempio_di_inserimento_contenuti_26.png
    :height: 630 px
    :width: 466 px
 
-.. |IMG27| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_27.png
+.. |IMG27| image:: static/2_-_Esempio_di_inserimento_contenuti_27.png
    :height: 48 px
    :width: 624 px
 
-.. |IMG28| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_28.png
+.. |IMG28| image:: static/2_-_Esempio_di_inserimento_contenuti_28.png
    :height: 233 px
    :width: 425 px
 
-.. |IMG29| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_29.png
+.. |IMG29| image:: static/2_-_Esempio_di_inserimento_contenuti_29.png
    :height: 89 px
    :width: 624 px
 
-.. |IMG30| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_30.png
+.. |IMG30| image:: static/2_-_Esempio_di_inserimento_contenuti_30.png
    :height: 149 px
    :width: 624 px
 
-.. |IMG31| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_31.png
+.. |IMG31| image:: static/2_-_Esempio_di_inserimento_contenuti_31.png
    :height: 161 px
    :width: 624 px
 
-.. |IMG32| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_32.png
+.. |IMG32| image:: static/2_-_Esempio_di_inserimento_contenuti_32.png
    :height: 70 px
    :width: 624 px
 
-.. |IMG33| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_33.png
+.. |IMG33| image:: static/2_-_Esempio_di_inserimento_contenuti_33.png
    :height: 69 px
    :width: 624 px
 
-.. |IMG34| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_34.png
+.. |IMG34| image:: static/2_-_Esempio_di_inserimento_contenuti_34.png
    :height: 57 px
    :width: 624 px
 
-.. |IMG35| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_35.png
+.. |IMG35| image:: static/2_-_Esempio_di_inserimento_contenuti_35.png
    :height: 145 px
    :width: 624 px
 
-.. |IMG36| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_36.png
+.. |IMG36| image:: static/2_-_Esempio_di_inserimento_contenuti_36.png
    :height: 64 px
    :width: 624 px
 
-.. |IMG37| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_37.png
+.. |IMG37| image:: static/2_-_Esempio_di_inserimento_contenuti_37.png
    :height: 128 px
    :width: 624 px
 
-.. |IMG38| image:: static/2_-_Esempio_di_inserimento_contenuti,_classe_per_classe_38.png
+.. |IMG38| image:: static/2_-_Esempio_di_inserimento_contenuti_38.png
    :height: 232 px
    :width: 624 px
