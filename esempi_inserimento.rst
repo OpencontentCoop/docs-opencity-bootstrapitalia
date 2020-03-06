@@ -1,14 +1,14 @@
 
-.. _h7f638084255365d7838781f4d19c78:
+.. _hf21763664352d3c15d3e52363a:
 
-Esempio di inserimento contenuti, classe per classe
-***************************************************
+Esempi di inserimento contenuti
+*******************************
 
-In questa sezione vengono presentate le modalità di inserimento per le diverse tipologie di contenuto. Rimane un concetto di fondo: quando si scrivono i contenuti bisogna sempre tenere presente che si stanno scrivendo per i cittadini, persone che hanno conoscenza limitata o assente di come funziona internamente la Pubblica Amministrazione. I principi fondamentali da seguire sono quindi quelli della semplicità e chiarezza. 
+In questa sezione vengono descritte le modalità di inserimento per alcune tipologie di contenuto. Rimane un concetto di fondo: \ |STYLE0|\ . I principi fondamentali da seguire sono quindi quelli della \ |STYLE1|\  e \ |STYLE2|\ . 
 
 Semplicità perché non ha senso fornire ad un utente informazioni che non gli siano utili, Chiarezza perché le informazioni devono essere il più possibile comprensibili.
 
-Quando si scrive, non bisogna dare nulla per scontato.
+\ |STYLE3|\ 
 
 .. _h4206f375449d2593c122327335225:
 
@@ -38,7 +38,7 @@ Gli attributi da compilarei sono suddivisi in “Contenuti principali” (1) e �
 
 \ |IMG2|\ 
 
-\ |STYLE0|\ 
+\ |STYLE4|\ 
 
 Viene di seguito descritto l’inserimento dati per ognuno degli attributi, soffermandosi su quelli che presentano una particolare complessità.
 
@@ -279,22 +279,22 @@ L’attivazione di un servizio può essere soggetta a vincoli, che vanno eventua
 Quando
 ~~~~~~
 
-Specificare eventuali vincoli temporali per l’attivazione del servizio. Il sistema consente di creare dei nuovi \ |STYLE1|\ .
+Specificare eventuali vincoli temporali per l’attivazione del servizio. Il sistema consente di creare dei nuovi \ |STYLE5|\ .
 
 \ |IMG25|\ 
 
-Per un intervallo di tempo è possibile indicare un nome, una \ |STYLE2|\ , una \ |STYLE3|\ , eventuali \ |STYLE4|\ , \ |STYLE5|\ , \ |STYLE6|\  ed eventuali \ |STYLE7|\  :
+Per un intervallo di tempo è possibile indicare un nome, una \ |STYLE6|\ , una \ |STYLE7|\ , eventuali \ |STYLE8|\ , \ |STYLE9|\ , \ |STYLE10|\  ed eventuali \ |STYLE11|\  :
 
 \ |IMG26|\ 
 
-\ |STYLE8|\ 
+\ |STYLE12|\ 
 
 .. _h305f227d5a2a44142133e7d48472d2f:
 
 Servizi richiesti
 ~~~~~~~~~~~~~~~~~
 
-Ci sono casi in cui un servizio è costituito da una sequenza di altri servizi che vanno attivati per completare la procedura. Questa situazione è gestita con l’attributo \ |STYLE9|\ : vanno collegati i servizi che costituiscono il servizio principale.
+Ci sono casi in cui un servizio è costituito da una sequenza di altri servizi che vanno attivati per completare la procedura. Questa situazione è gestita con l’attributo \ |STYLE13|\ : vanno collegati i servizi che costituiscono il servizio principale.
 
 \ |IMG27|\ 
 
@@ -302,7 +302,7 @@ I servizi richiesti così collegati possono avere definite delle tempistiche, ch
 
 \ |IMG28|\ 
 
-\ |STYLE10|\ 
+\ |STYLE14|\ 
 
 Questa rappresentazione consente al cittadino di comprendere come si svolge la procedura completa per ottenere la soddisfazione del suo fabbisogno.
 
@@ -338,27 +338,35 @@ Quando l’ente eroga un servizio, trova nella controparte (i cittadini) una ple
 .. bottom of content
 
 
-.. |STYLE0| replace:: *Interfaccia di inserimento di un Servizio Pubblico*
+.. |STYLE0| replace:: **quando si scrivono i contenuti bisogna sempre tenere presente che si stanno scrivendo per i cittadini, persone che hanno conoscenza limitata o assente di come funziona internamente la Pubblica Amministrazione**
 
-.. |STYLE1| replace:: **orari/intervalli di tempo**
+.. |STYLE1| replace:: **semplicità**
 
-.. |STYLE2| replace:: **data di inizio**
+.. |STYLE2| replace:: **chiarezza**
 
-.. |STYLE3| replace:: **data di fine**
+.. |STYLE3| replace:: **Quando si scrive, non bisogna dare nulla per scontato.**
 
-.. |STYLE4| replace:: **orari specifici per giorni della settimana**
+.. |STYLE4| replace:: *Interfaccia di inserimento di un Servizio Pubblico*
 
-.. |STYLE5| replace:: **note**
+.. |STYLE5| replace:: **orari/intervalli di tempo**
 
-.. |STYLE6| replace:: **stagionalità,**
+.. |STYLE6| replace:: **data di inizio**
 
-.. |STYLE7| replace:: **periodi di chiusura**
+.. |STYLE7| replace:: **data di fine**
 
-.. |STYLE8| replace:: *L’interfaccia di inserimento di un Orario/Intervallo di tempo*
+.. |STYLE8| replace:: **orari specifici per giorni della settimana**
 
-.. |STYLE9| replace:: **Servizi Richiesti**
+.. |STYLE9| replace:: **note**
 
-.. |STYLE10| replace:: *Visualizzazione dei servizi richiesti, con le tempistiche specificate*
+.. |STYLE10| replace:: **stagionalità,**
+
+.. |STYLE11| replace:: **periodi di chiusura**
+
+.. |STYLE12| replace:: *L’interfaccia di inserimento di un Orario/Intervallo di tempo*
+
+.. |STYLE13| replace:: **Servizi Richiesti**
+
+.. |STYLE14| replace:: *Visualizzazione dei servizi richiesti, con le tempistiche specificate*
 
 
 .. |LINK1| raw:: html
